@@ -1,0 +1,1 @@
+console.log('Jenkins pipeline works v.4');
