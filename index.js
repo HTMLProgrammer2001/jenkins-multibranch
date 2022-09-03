@@ -1,1 +1,1 @@
-console.log('Jenkins pipeline works v.4');
+console.log('SIR-1');
